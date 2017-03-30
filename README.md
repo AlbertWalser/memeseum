@@ -6,3 +6,4 @@
 
 * Robert Jans
 * Daniela Gianora
+* Nicolò Panciera
