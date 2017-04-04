@@ -8,4 +8,5 @@
 
 * Robert Jans
 * Daniela Gianora
-* Nicolò Panciera
+* NicolÃ² Panciera
+* Albert Walser
